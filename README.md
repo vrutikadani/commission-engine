@@ -1,6 +1,6 @@
 # Commission Engine
 
-[![CI](https://github.com/vrutikadani/commission-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/vrutikadani/commission-engine/actions/workflows/ci.yml) ![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
+[![CI](https://github.com/vrutikadani/commission-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/vrutikadani/commission-engine/actions/workflows/ci.yml)
 
 A config-driven engine that calculates sales commissions for a full quarter: tiered rates, monthly advances, quarterly true-ups, financing-deal rules, leadership accelerators and revenue caps. Every payout traces back to a deal row and a plan rule.
 
@@ -43,6 +43,12 @@ flowchart LR
 
 **Design rule I hold to:** no plan constant is ever hard-coded. Quotas, breaks, rates, thresholds and the quarter's months all live in `config/plans_q3.json`. Rolling to a new quarter is a config change, not a code change.
 
+## Limitations
+
+- One quarter at a time. Clawbacks across quarters, deal splits and mid-quarter role changes are not modeled here.
+- Retro rate mode is what my plans used. It creates a cliff at each tier break, which is a plan-design choice worth questioning, not a property of the engine.
+- The engine trusts the deal log. Garbage close dates or owners produce confident, wrong payouts, which is why the production numbers are checked each month against a CRM attainment dashboard before payroll.
+
 ## Run it
 
 ```bash
@@ -69,5 +75,3 @@ The Excel dashboard shows figures in $K, uses live `SUM` formulas so finance can
 - Plan changes went from cell-by-cell edits to one parameter block.
 - Fed the move to fully automated commission software (CRM + ERP + commission platform), so reps now see attainment live.
 
----
-Built by [Vrutik Adani](https://www.linkedin.com/in/vrutikadani) · Technical Product Manager, GTM Systems & AI Engineering
