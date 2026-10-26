@@ -1,5 +1,7 @@
 # Commission Engine
 
+[![CI](https://github.com/vrutikadani/commission-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/vrutikadani/commission-engine/actions/workflows/ci.yml) ![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
+
 A config-driven engine that calculates sales commissions for a full quarter: tiered rates, monthly advances, quarterly true-ups, financing-deal rules, leadership accelerators and revenue caps. Every payout traces back to a deal row and a plan rule.
 
 > **About this repo.** I own quarterly commissions for a medical device + consumables sales org, covering **$4M+ in revenue per quarter** across capital sales, inside sales, account management and leadership plans. I first ran it as a formula-driven Excel model, then moved it to automated commission software. This repo rebuilds the same logic in Python with **synthetic plans, reps and deals**. No real comp plans, names or figures are included.
@@ -68,4 +70,4 @@ The Excel dashboard shows figures in $K, uses live `SUM` formulas so finance can
 - Fed the move to fully automated commission software (CRM + ERP + commission platform), so reps now see attainment live.
 
 ---
-Built by [Vrutik Adani](https://www.linkedin.com/in/vrutikadani) · GTM Systems & AI Engineering
+Built by [Vrutik Adani](https://www.linkedin.com/in/vrutikadani) · Technical Product Manager, GTM Systems & AI Engineering
