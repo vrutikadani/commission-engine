@@ -4,7 +4,7 @@
 
 A config-driven engine that calculates sales commissions for a full quarter: tiered rates, monthly advances, quarterly true-ups, financing-deal rules, leadership accelerators and revenue caps. Every payout traces back to a deal row and a plan rule.
 
-> **About this repo.** I own quarterly commissions for a medical device + consumables sales org across capital sales, inside sales, account management and leadership plans. I first ran it as a formula-driven Excel model, then moved it to automated commission software. This repo rebuilds the same logic in Python with **synthetic plans, reps and deals**. No real comp plans, names or figures are included.
+> **About this repo.** I own quarterly commissions for a medical device + consumables sales org across capital sales, inside sales, account management and leadership plans. Payouts are calculated in a governed, formula-driven Excel model, and attainment visibility is moving to commission software. This repo rebuilds the same logic in Python with **synthetic plans, reps and deals**. No real comp plans, names or figures are included.
 
 ## The business problem
 
@@ -73,5 +73,5 @@ The Excel dashboard shows figures in $K, uses live `SUM` formulas so finance can
 
 - Covers every sales role: capital, inside sales, account management and leadership.
 - Plan changes went from cell-by-cell edits to one parameter block.
-- Fed the move to fully automated commission software (CRM + ERP + commission platform), so reps now see attainment live.
+- Is the basis for the move to commission software (CRM + ERP + commission platform), so reps can see attainment as it happens. Payouts are still calculated and checked in the governed model.
 
