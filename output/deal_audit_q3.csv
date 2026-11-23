@@ -1,0 +1,181 @@
+rep,role,deal_id,owner,month,deal_type,rule,gross,excluded,credited_revenue,flat_commission,commission,bonus
+Avery Brooks,AE,D-1001,Avery Brooks,2026-08,ifs,"ifs: flat, no quota credit",20000.00,20000.00,0.00,1500.00,0.00,0.00
+Avery Brooks,AE,D-1002,Avery Brooks,2026-07,ifs,ifs: no commission,30000.00,30000.00,0.00,0.00,0.00,0.00
+Avery Brooks,AE,D-1003,Avery Brooks,2026-09,capital,capital: full credit,25000.00,0.00,25000.00,0.00,1250.00,0.00
+Avery Brooks,AE,D-1004,Avery Brooks,2026-07,capital,capital: full credit,35000.00,0.00,35000.00,0.00,1750.00,0.00
+Avery Brooks,AE,D-1005,Avery Brooks,2026-07,capital,capital: full credit,35000.00,0.00,35000.00,0.00,1750.00,0.00
+Avery Brooks,AE,D-1006,Avery Brooks,2026-07,ifs,ifs: no commission,25000.00,25000.00,0.00,0.00,0.00,0.00
+Avery Brooks,AE,D-1007,Avery Brooks,2026-09,capital,capital: full credit,20000.00,0.00,20000.00,0.00,1000.00,0.00
+Avery Brooks,AE,D-1008,Avery Brooks,2026-09,capital,capital: full credit,20000.00,0.00,20000.00,0.00,1000.00,0.00
+Avery Brooks,AE,D-1009,Avery Brooks,2026-07,capital,capital: full credit,25000.00,0.00,25000.00,0.00,1250.00,0.00
+Riley Chen,AE,D-1010,Riley Chen,2026-08,capital,capital: full credit,20000.00,0.00,20000.00,0.00,2000.00,0.00
+Riley Chen,AE,D-1011,Riley Chen,2026-09,capital,capital: full credit,25000.00,0.00,25000.00,0.00,2500.00,0.00
+Riley Chen,AE,D-1012,Riley Chen,2026-07,capital,capital: full credit,25000.00,0.00,25000.00,0.00,2500.00,0.00
+Riley Chen,AE,D-1013,Riley Chen,2026-08,capital,capital: full credit,20000.00,0.00,20000.00,0.00,2000.00,0.00
+Riley Chen,AE,D-1014,Riley Chen,2026-09,capital,capital: full credit,25000.00,0.00,25000.00,0.00,2500.00,0.00
+Riley Chen,AE,D-1015,Riley Chen,2026-08,capital,capital: full credit,35000.00,0.00,35000.00,0.00,3500.00,0.00
+Riley Chen,AE,D-1016,Riley Chen,2026-08,capital,capital: full credit,35000.00,0.00,35000.00,0.00,3500.00,0.00
+Riley Chen,AE,D-1017,Riley Chen,2026-08,capital,capital: full credit,25000.00,0.00,25000.00,0.00,2500.00,0.00
+Riley Chen,AE,D-1018,Riley Chen,2026-09,capital,capital: full credit,20000.00,0.00,20000.00,0.00,2000.00,0.00
+Jamie Patel,AE,D-1019,Jamie Patel,2026-09,capital,capital: full credit,35000.00,0.00,35000.00,0.00,1750.00,0.00
+Jamie Patel,AE,D-1020,Jamie Patel,2026-08,capital,capital: full credit,30000.00,0.00,30000.00,0.00,1500.00,0.00
+Jamie Patel,AE,D-1021,Jamie Patel,2026-09,ifs,ifs: no commission,35000.00,35000.00,0.00,0.00,0.00,0.00
+Jamie Patel,AE,D-1022,Jamie Patel,2026-07,capital,capital: full credit,25000.00,0.00,25000.00,0.00,1250.00,0.00
+Jamie Patel,AE,D-1023,Jamie Patel,2026-08,capital,capital: full credit,20000.00,0.00,20000.00,0.00,1000.00,0.00
+Jamie Patel,AE,D-1024,Jamie Patel,2026-09,capital,capital: full credit,30000.00,0.00,30000.00,0.00,1500.00,0.00
+Jamie Patel,AE,D-1025,Jamie Patel,2026-08,capital,capital: full credit,35000.00,0.00,35000.00,0.00,1750.00,0.00
+Jamie Patel,AE,D-1026,Jamie Patel,2026-09,capital,capital: full credit,20000.00,0.00,20000.00,0.00,1000.00,0.00
+Jamie Patel,AE,D-1027,Jamie Patel,2026-07,ifs,"ifs: flat, no quota credit",20000.00,20000.00,0.00,1500.00,0.00,0.00
+Quinn Foster,AE_RAMP,D-1028,Quinn Foster,2026-07,capital,capital: full credit,30000.00,0.00,30000.00,0.00,2400.00,0.00
+Quinn Foster,AE_RAMP,D-1029,Quinn Foster,2026-09,capital,capital: full credit,35000.00,0.00,35000.00,0.00,2800.00,0.00
+Quinn Foster,AE_RAMP,D-1030,Quinn Foster,2026-08,capital,capital: full credit,30000.00,0.00,30000.00,0.00,2400.00,0.00
+Taylor Reyes,INSIDE,D-1031,Taylor Reyes,2026-07,ifs,"ifs: flat, no quota credit",25000.00,25000.00,0.00,1500.00,0.00,0.00
+Taylor Reyes,INSIDE,D-1032,Taylor Reyes,2026-08,capital,capital: full credit,30000.00,0.00,30000.00,0.00,2700.00,250.00
+Taylor Reyes,INSIDE,D-1033,Taylor Reyes,2026-07,capital,capital: full credit,35000.00,0.00,35000.00,0.00,3150.00,250.00
+Taylor Reyes,INSIDE,D-1034,Taylor Reyes,2026-08,capital,capital: full credit,30000.00,0.00,30000.00,0.00,2700.00,0.00
+Taylor Reyes,INSIDE,D-1035,Taylor Reyes,2026-08,ifs,"ifs: flat, no quota credit",35000.00,35000.00,0.00,1500.00,0.00,0.00
+Taylor Reyes,INSIDE,D-1036,Taylor Reyes,2026-09,ifs,ifs: no commission,25000.00,25000.00,0.00,0.00,0.00,250.00
+Taylor Reyes,INSIDE,D-1037,Taylor Reyes,2026-07,capital,capital: full credit,25000.00,0.00,25000.00,0.00,2250.00,250.00
+Taylor Reyes,INSIDE,D-1038,Taylor Reyes,2026-09,capital,capital: full credit,30000.00,0.00,30000.00,0.00,2700.00,250.00
+Casey Kim,INSIDE,D-1039,Casey Kim,2026-08,capital,capital: full credit,30000.00,0.00,30000.00,0.00,2700.00,0.00
+Casey Kim,INSIDE,D-1040,Casey Kim,2026-09,ifs,ifs: full credit,20000.00,0.00,20000.00,0.00,1800.00,0.00
+Casey Kim,INSIDE,D-1041,Casey Kim,2026-09,capital,capital: full credit,35000.00,0.00,35000.00,0.00,3150.00,250.00
+Casey Kim,INSIDE,D-1042,Casey Kim,2026-08,capital,capital: full credit,35000.00,0.00,35000.00,0.00,3150.00,250.00
+Casey Kim,INSIDE,D-1043,Casey Kim,2026-07,ifs,"ifs: flat, no quota credit",25000.00,25000.00,0.00,1500.00,0.00,250.00
+Casey Kim,INSIDE,D-1044,Casey Kim,2026-09,capital,capital: full credit,20000.00,0.00,20000.00,0.00,1800.00,0.00
+Casey Kim,INSIDE,D-1045,Casey Kim,2026-09,capital,capital: full credit,30000.00,0.00,30000.00,0.00,2700.00,0.00
+Casey Kim,INSIDE,D-1046,Casey Kim,2026-07,ifs,ifs: full credit,35000.00,0.00,35000.00,0.00,3150.00,250.00
+Drew Santos,ACCOUNT_MGR,D-1047,Drew Santos,2026-08,consumables,consumables: net of discounts,14554.68,701.28,13853.40,0.00,1108.27,0.00
+Drew Santos,ACCOUNT_MGR,D-1048,Drew Santos,2026-08,consumables,consumables: net of discounts,6228.42,423.00,5805.42,0.00,464.43,0.00
+Drew Santos,ACCOUNT_MGR,D-1049,Drew Santos,2026-08,consumables,consumables: net of discounts,9803.95,244.59,9559.36,0.00,764.75,0.00
+Drew Santos,ACCOUNT_MGR,D-1050,Drew Santos,2026-07,consumables,consumables: net of discounts,6021.88,165.06,5856.82,0.00,468.55,0.00
+Drew Santos,ACCOUNT_MGR,D-1051,Drew Santos,2026-08,consumables,consumables: net of discounts,9786.22,541.81,9244.41,0.00,739.55,0.00
+Drew Santos,ACCOUNT_MGR,D-1052,Drew Santos,2026-09,consumables,consumables: net of discounts,5230.96,397.97,4832.99,0.00,386.64,0.00
+Drew Santos,ACCOUNT_MGR,D-1053,Drew Santos,2026-09,consumables,consumables: net of discounts,8617.52,475.73,8141.79,0.00,651.34,0.00
+Drew Santos,ACCOUNT_MGR,D-1054,Drew Santos,2026-07,consumables,consumables: net of discounts,12581.43,300.03,12281.40,0.00,982.51,0.00
+Drew Santos,ACCOUNT_MGR,D-1055,Drew Santos,2026-09,consumables,consumables: net of discounts,13633.25,759.31,12873.94,0.00,1029.92,0.00
+Drew Santos,ACCOUNT_MGR,D-1056,Drew Santos,2026-08,consumables,consumables: net of discounts,10183.97,739.97,9444.00,0.00,755.52,0.00
+Drew Santos,ACCOUNT_MGR,D-1057,Drew Santos,2026-08,consumables,consumables: net of discounts,12719.38,541.94,12177.44,0.00,974.20,0.00
+Drew Santos,ACCOUNT_MGR,D-1058,Drew Santos,2026-09,consumables,consumables: net of discounts,8296.65,148.04,8148.61,0.00,651.89,0.00
+Drew Santos,ACCOUNT_MGR,D-1059,Drew Santos,2026-07,consumables,consumables: net of discounts,13060.79,855.05,12205.74,0.00,976.46,0.00
+Drew Santos,ACCOUNT_MGR,D-1060,Drew Santos,2026-09,consumables,consumables: net of discounts,13033.26,208.45,12824.81,0.00,1025.98,0.00
+Drew Santos,ACCOUNT_MGR,D-1061,Drew Santos,2026-08,consumables,consumables: net of discounts,8555.63,19.84,8535.79,0.00,682.86,0.00
+Drew Santos,ACCOUNT_MGR,D-1062,Drew Santos,2026-07,consumables,consumables: net of discounts,12901.14,487.39,12413.75,0.00,993.10,0.00
+Drew Santos,ACCOUNT_MGR,D-1063,Drew Santos,2026-07,consumables,consumables: net of discounts,11925.22,912.53,11012.69,0.00,881.01,0.00
+Drew Santos,ACCOUNT_MGR,D-1064,Drew Santos,2026-08,consumables,consumables: net of discounts,13085.66,757.01,12328.65,0.00,986.29,0.00
+Drew Santos,ACCOUNT_MGR,D-1065,Drew Santos,2026-08,consumables,consumables: net of discounts,14550.01,424.44,14125.57,0.00,1130.05,0.00
+Drew Santos,ACCOUNT_MGR,D-1066,Drew Santos,2026-07,consumables,consumables: net of discounts,6021.57,226.45,5795.12,0.00,463.61,0.00
+Drew Santos,ACCOUNT_MGR,D-1067,Drew Santos,2026-08,consumables,consumables: net of discounts,7043.73,351.66,6692.07,0.00,535.37,0.00
+Drew Santos,ACCOUNT_MGR,D-1068,Drew Santos,2026-09,consumables,consumables: net of discounts,13404.36,514.16,12890.20,0.00,1031.22,0.00
+Skyler Ward,ACCOUNT_MGR,D-1069,Skyler Ward,2026-09,consumables,consumables: net of discounts,8440.07,434.25,8005.82,0.00,480.35,0.00
+Skyler Ward,ACCOUNT_MGR,D-1070,Skyler Ward,2026-09,consumables,consumables: net of discounts,6199.04,192.68,6006.36,0.00,360.38,0.00
+Skyler Ward,ACCOUNT_MGR,D-1071,Skyler Ward,2026-09,consumables,consumables: net of discounts,12501.40,478.09,12023.31,0.00,721.40,0.00
+Skyler Ward,ACCOUNT_MGR,D-1072,Skyler Ward,2026-07,consumables,consumables: net of discounts,9339.25,475.06,8864.19,0.00,531.85,0.00
+Skyler Ward,ACCOUNT_MGR,D-1073,Skyler Ward,2026-07,consumables,consumables: net of discounts,13008.24,1011.16,11997.08,0.00,719.83,0.00
+Skyler Ward,ACCOUNT_MGR,D-1074,Skyler Ward,2026-08,consumables,consumables: net of discounts,9631.61,572.77,9058.84,0.00,543.53,0.00
+Skyler Ward,ACCOUNT_MGR,D-1075,Skyler Ward,2026-07,consumables,consumables: net of discounts,12247.99,166.58,12081.41,0.00,724.89,0.00
+Skyler Ward,ACCOUNT_MGR,D-1076,Skyler Ward,2026-07,consumables,consumables: net of discounts,5275.49,249.35,5026.14,0.00,301.57,0.00
+Skyler Ward,ACCOUNT_MGR,D-1077,Skyler Ward,2026-08,consumables,consumables: net of discounts,13065.02,152.78,12912.24,0.00,774.73,0.00
+Skyler Ward,ACCOUNT_MGR,D-1078,Skyler Ward,2026-09,consumables,consumables: net of discounts,14803.06,778.37,14024.69,0.00,841.48,0.00
+Skyler Ward,ACCOUNT_MGR,D-1079,Skyler Ward,2026-08,consumables,consumables: net of discounts,6559.12,287.70,6271.42,0.00,376.29,0.00
+Skyler Ward,ACCOUNT_MGR,D-1080,Skyler Ward,2026-07,consumables,consumables: net of discounts,5142.43,399.42,4743.01,0.00,284.58,0.00
+Skyler Ward,ACCOUNT_MGR,D-1081,Skyler Ward,2026-09,consumables,consumables: net of discounts,6027.72,361.42,5666.30,0.00,339.98,0.00
+Skyler Ward,ACCOUNT_MGR,D-1082,Skyler Ward,2026-07,consumables,consumables: net of discounts,9338.09,651.23,8686.86,0.00,521.21,0.00
+Skyler Ward,ACCOUNT_MGR,D-1083,Skyler Ward,2026-07,consumables,consumables: net of discounts,5279.94,89.88,5190.06,0.00,311.40,0.00
+Skyler Ward,ACCOUNT_MGR,D-1084,Skyler Ward,2026-09,consumables,consumables: net of discounts,7405.39,347.42,7057.97,0.00,423.48,0.00
+Skyler Ward,ACCOUNT_MGR,D-1085,Skyler Ward,2026-08,consumables,consumables: net of discounts,10443.53,696.96,9746.57,0.00,584.79,0.00
+Skyler Ward,ACCOUNT_MGR,D-1086,Skyler Ward,2026-07,consumables,consumables: net of discounts,14100.17,399.07,13701.10,0.00,822.07,0.00
+Skyler Ward,ACCOUNT_MGR,D-1087,Skyler Ward,2026-08,consumables,consumables: net of discounts,11624.75,757.98,10866.77,0.00,652.01,0.00
+Skyler Ward,ACCOUNT_MGR,D-1088,Skyler Ward,2026-09,consumables,consumables: net of discounts,9206.28,675.90,8530.38,0.00,511.82,0.00
+Skyler Ward,ACCOUNT_MGR,D-1089,Skyler Ward,2026-09,consumables,consumables: net of discounts,6307.63,76.62,6231.01,0.00,373.86,0.00
+Skyler Ward,ACCOUNT_MGR,D-1090,Skyler Ward,2026-09,consumables,consumables: net of discounts,5187.05,182.64,5004.41,0.00,300.26,0.00
+Morgan Hale,DIRECTOR,D-1001,Avery Brooks,2026-08,ifs,"roll-up (AE basis) ifs: flat, no quota credit",20000.00,20000.00,0.00,0.00,0.00,0.00
+Morgan Hale,DIRECTOR,D-1002,Avery Brooks,2026-07,ifs,roll-up (AE basis) ifs: no commission,30000.00,30000.00,0.00,0.00,0.00,0.00
+Morgan Hale,DIRECTOR,D-1003,Avery Brooks,2026-09,capital,roll-up (AE basis) capital: full credit,25000.00,0.00,25000.00,0.00,625.00,0.00
+Morgan Hale,DIRECTOR,D-1004,Avery Brooks,2026-07,capital,roll-up (AE basis) capital: full credit,35000.00,0.00,35000.00,0.00,875.00,0.00
+Morgan Hale,DIRECTOR,D-1005,Avery Brooks,2026-07,capital,roll-up (AE basis) capital: full credit,35000.00,0.00,35000.00,0.00,875.00,0.00
+Morgan Hale,DIRECTOR,D-1006,Avery Brooks,2026-07,ifs,roll-up (AE basis) ifs: no commission,25000.00,25000.00,0.00,0.00,0.00,0.00
+Morgan Hale,DIRECTOR,D-1007,Avery Brooks,2026-09,capital,roll-up (AE basis) capital: full credit,20000.00,0.00,20000.00,0.00,500.00,0.00
+Morgan Hale,DIRECTOR,D-1008,Avery Brooks,2026-09,capital,roll-up (AE basis) capital: full credit,20000.00,0.00,20000.00,0.00,500.00,0.00
+Morgan Hale,DIRECTOR,D-1009,Avery Brooks,2026-07,capital,roll-up (AE basis) capital: full credit,25000.00,0.00,25000.00,0.00,625.00,0.00
+Morgan Hale,DIRECTOR,D-1010,Riley Chen,2026-08,capital,roll-up (AE basis) capital: full credit,20000.00,0.00,20000.00,0.00,500.00,0.00
+Morgan Hale,DIRECTOR,D-1011,Riley Chen,2026-09,capital,roll-up (AE basis) capital: full credit,25000.00,0.00,25000.00,0.00,625.00,0.00
+Morgan Hale,DIRECTOR,D-1012,Riley Chen,2026-07,capital,roll-up (AE basis) capital: full credit,25000.00,0.00,25000.00,0.00,625.00,0.00
+Morgan Hale,DIRECTOR,D-1013,Riley Chen,2026-08,capital,roll-up (AE basis) capital: full credit,20000.00,0.00,20000.00,0.00,500.00,0.00
+Morgan Hale,DIRECTOR,D-1014,Riley Chen,2026-09,capital,roll-up (AE basis) capital: full credit,25000.00,0.00,25000.00,0.00,625.00,0.00
+Morgan Hale,DIRECTOR,D-1015,Riley Chen,2026-08,capital,roll-up (AE basis) capital: full credit,35000.00,0.00,35000.00,0.00,875.00,0.00
+Morgan Hale,DIRECTOR,D-1016,Riley Chen,2026-08,capital,roll-up (AE basis) capital: full credit,35000.00,0.00,35000.00,0.00,875.00,0.00
+Morgan Hale,DIRECTOR,D-1017,Riley Chen,2026-08,capital,roll-up (AE basis) capital: full credit,25000.00,0.00,25000.00,0.00,625.00,0.00
+Morgan Hale,DIRECTOR,D-1018,Riley Chen,2026-09,capital,roll-up (AE basis) capital: full credit,20000.00,0.00,20000.00,0.00,500.00,0.00
+Morgan Hale,DIRECTOR,D-1019,Jamie Patel,2026-09,capital,roll-up (AE basis) capital: full credit,35000.00,0.00,35000.00,0.00,875.00,0.00
+Morgan Hale,DIRECTOR,D-1020,Jamie Patel,2026-08,capital,roll-up (AE basis) capital: full credit,30000.00,0.00,30000.00,0.00,750.00,0.00
+Morgan Hale,DIRECTOR,D-1021,Jamie Patel,2026-09,ifs,roll-up (AE basis) ifs: no commission,35000.00,35000.00,0.00,0.00,0.00,0.00
+Morgan Hale,DIRECTOR,D-1022,Jamie Patel,2026-07,capital,roll-up (AE basis) capital: full credit,25000.00,0.00,25000.00,0.00,625.00,0.00
+Morgan Hale,DIRECTOR,D-1023,Jamie Patel,2026-08,capital,roll-up (AE basis) capital: full credit,20000.00,0.00,20000.00,0.00,500.00,0.00
+Morgan Hale,DIRECTOR,D-1024,Jamie Patel,2026-09,capital,roll-up (AE basis) capital: full credit,30000.00,0.00,30000.00,0.00,750.00,0.00
+Morgan Hale,DIRECTOR,D-1025,Jamie Patel,2026-08,capital,roll-up (AE basis) capital: full credit,35000.00,0.00,35000.00,0.00,875.00,0.00
+Morgan Hale,DIRECTOR,D-1026,Jamie Patel,2026-09,capital,roll-up (AE basis) capital: full credit,20000.00,0.00,20000.00,0.00,500.00,0.00
+Morgan Hale,DIRECTOR,D-1027,Jamie Patel,2026-07,ifs,"roll-up (AE basis) ifs: flat, no quota credit",20000.00,20000.00,0.00,0.00,0.00,0.00
+Morgan Hale,DIRECTOR,D-1028,Quinn Foster,2026-07,capital,roll-up (AE_RAMP basis) capital: full credit,30000.00,0.00,30000.00,0.00,750.00,0.00
+Morgan Hale,DIRECTOR,D-1029,Quinn Foster,2026-09,capital,roll-up (AE_RAMP basis) capital: full credit,35000.00,0.00,35000.00,0.00,875.00,0.00
+Morgan Hale,DIRECTOR,D-1030,Quinn Foster,2026-08,capital,roll-up (AE_RAMP basis) capital: full credit,30000.00,0.00,30000.00,0.00,750.00,0.00
+Morgan Hale,DIRECTOR,D-1031,Taylor Reyes,2026-07,ifs,"roll-up (INSIDE basis) ifs: flat, no quota credit",25000.00,25000.00,0.00,0.00,0.00,0.00
+Morgan Hale,DIRECTOR,D-1032,Taylor Reyes,2026-08,capital,roll-up (INSIDE basis) capital: full credit,30000.00,0.00,30000.00,0.00,750.00,0.00
+Morgan Hale,DIRECTOR,D-1033,Taylor Reyes,2026-07,capital,roll-up (INSIDE basis) capital: full credit,35000.00,0.00,35000.00,0.00,875.00,0.00
+Morgan Hale,DIRECTOR,D-1034,Taylor Reyes,2026-08,capital,roll-up (INSIDE basis) capital: full credit,30000.00,0.00,30000.00,0.00,750.00,0.00
+Morgan Hale,DIRECTOR,D-1035,Taylor Reyes,2026-08,ifs,"roll-up (INSIDE basis) ifs: flat, no quota credit",35000.00,35000.00,0.00,0.00,0.00,0.00
+Morgan Hale,DIRECTOR,D-1036,Taylor Reyes,2026-09,ifs,roll-up (INSIDE basis) ifs: no commission,25000.00,25000.00,0.00,0.00,0.00,0.00
+Morgan Hale,DIRECTOR,D-1037,Taylor Reyes,2026-07,capital,roll-up (INSIDE basis) capital: full credit,25000.00,0.00,25000.00,0.00,625.00,0.00
+Morgan Hale,DIRECTOR,D-1038,Taylor Reyes,2026-09,capital,roll-up (INSIDE basis) capital: full credit,30000.00,0.00,30000.00,0.00,750.00,0.00
+Morgan Hale,DIRECTOR,D-1039,Casey Kim,2026-08,capital,roll-up (INSIDE basis) capital: full credit,30000.00,0.00,30000.00,0.00,750.00,0.00
+Morgan Hale,DIRECTOR,D-1040,Casey Kim,2026-09,ifs,roll-up (INSIDE basis) ifs: full credit,20000.00,0.00,20000.00,0.00,500.00,0.00
+Morgan Hale,DIRECTOR,D-1041,Casey Kim,2026-09,capital,roll-up (INSIDE basis) capital: full credit,35000.00,0.00,35000.00,0.00,875.00,0.00
+Morgan Hale,DIRECTOR,D-1042,Casey Kim,2026-08,capital,roll-up (INSIDE basis) capital: full credit,35000.00,0.00,35000.00,0.00,875.00,0.00
+Morgan Hale,DIRECTOR,D-1043,Casey Kim,2026-07,ifs,"roll-up (INSIDE basis) ifs: flat, no quota credit",25000.00,25000.00,0.00,0.00,0.00,0.00
+Morgan Hale,DIRECTOR,D-1044,Casey Kim,2026-09,capital,roll-up (INSIDE basis) capital: full credit,20000.00,0.00,20000.00,0.00,500.00,0.00
+Morgan Hale,DIRECTOR,D-1045,Casey Kim,2026-09,capital,roll-up (INSIDE basis) capital: full credit,30000.00,0.00,30000.00,0.00,750.00,0.00
+Morgan Hale,DIRECTOR,D-1046,Casey Kim,2026-07,ifs,roll-up (INSIDE basis) ifs: full credit,35000.00,0.00,35000.00,0.00,875.00,0.00
+Morgan Hale,DIRECTOR,D-1047,Drew Santos,2026-08,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,14554.68,701.28,13853.40,0.00,346.33,0.00
+Morgan Hale,DIRECTOR,D-1048,Drew Santos,2026-08,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,6228.42,423.00,5805.42,0.00,145.14,0.00
+Morgan Hale,DIRECTOR,D-1049,Drew Santos,2026-08,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,9803.95,244.59,9559.36,0.00,238.98,0.00
+Morgan Hale,DIRECTOR,D-1050,Drew Santos,2026-07,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,6021.88,165.06,5856.82,0.00,146.42,0.00
+Morgan Hale,DIRECTOR,D-1051,Drew Santos,2026-08,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,9786.22,541.81,9244.41,0.00,231.11,0.00
+Morgan Hale,DIRECTOR,D-1052,Drew Santos,2026-09,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,5230.96,397.97,4832.99,0.00,120.82,0.00
+Morgan Hale,DIRECTOR,D-1053,Drew Santos,2026-09,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,8617.52,475.73,8141.79,0.00,203.54,0.00
+Morgan Hale,DIRECTOR,D-1054,Drew Santos,2026-07,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,12581.43,300.03,12281.40,0.00,307.03,0.00
+Morgan Hale,DIRECTOR,D-1055,Drew Santos,2026-09,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,13633.25,759.31,12873.94,0.00,321.85,0.00
+Morgan Hale,DIRECTOR,D-1056,Drew Santos,2026-08,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,10183.97,739.97,9444.00,0.00,236.10,0.00
+Morgan Hale,DIRECTOR,D-1057,Drew Santos,2026-08,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,12719.38,541.94,12177.44,0.00,304.44,0.00
+Morgan Hale,DIRECTOR,D-1058,Drew Santos,2026-09,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,8296.65,148.04,8148.61,0.00,203.72,0.00
+Morgan Hale,DIRECTOR,D-1059,Drew Santos,2026-07,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,13060.79,855.05,12205.74,0.00,305.14,0.00
+Morgan Hale,DIRECTOR,D-1060,Drew Santos,2026-09,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,13033.26,208.45,12824.81,0.00,320.62,0.00
+Morgan Hale,DIRECTOR,D-1061,Drew Santos,2026-08,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,8555.63,19.84,8535.79,0.00,213.39,0.00
+Morgan Hale,DIRECTOR,D-1062,Drew Santos,2026-07,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,12901.14,487.39,12413.75,0.00,310.34,0.00
+Morgan Hale,DIRECTOR,D-1063,Drew Santos,2026-07,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,11925.22,912.53,11012.69,0.00,275.32,0.00
+Morgan Hale,DIRECTOR,D-1064,Drew Santos,2026-08,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,13085.66,757.01,12328.65,0.00,308.22,0.00
+Morgan Hale,DIRECTOR,D-1065,Drew Santos,2026-08,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,14550.01,424.44,14125.57,0.00,353.14,0.00
+Morgan Hale,DIRECTOR,D-1066,Drew Santos,2026-07,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,6021.57,226.45,5795.12,0.00,144.88,0.00
+Morgan Hale,DIRECTOR,D-1067,Drew Santos,2026-08,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,7043.73,351.66,6692.07,0.00,167.30,0.00
+Morgan Hale,DIRECTOR,D-1068,Drew Santos,2026-09,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,13404.36,514.16,12890.20,0.00,322.25,0.00
+Morgan Hale,DIRECTOR,D-1069,Skyler Ward,2026-09,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,8440.07,434.25,8005.82,0.00,200.15,0.00
+Morgan Hale,DIRECTOR,D-1070,Skyler Ward,2026-09,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,6199.04,192.68,6006.36,0.00,150.16,0.00
+Morgan Hale,DIRECTOR,D-1071,Skyler Ward,2026-09,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,12501.40,478.09,12023.31,0.00,300.58,0.00
+Morgan Hale,DIRECTOR,D-1072,Skyler Ward,2026-07,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,9339.25,475.06,8864.19,0.00,221.60,0.00
+Morgan Hale,DIRECTOR,D-1073,Skyler Ward,2026-07,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,13008.24,1011.16,11997.08,0.00,299.93,0.00
+Morgan Hale,DIRECTOR,D-1074,Skyler Ward,2026-08,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,9631.61,572.77,9058.84,0.00,226.47,0.00
+Morgan Hale,DIRECTOR,D-1075,Skyler Ward,2026-07,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,12247.99,166.58,12081.41,0.00,302.04,0.00
+Morgan Hale,DIRECTOR,D-1076,Skyler Ward,2026-07,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,5275.49,249.35,5026.14,0.00,125.65,0.00
+Morgan Hale,DIRECTOR,D-1077,Skyler Ward,2026-08,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,13065.02,152.78,12912.24,0.00,322.81,0.00
+Morgan Hale,DIRECTOR,D-1078,Skyler Ward,2026-09,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,14803.06,778.37,14024.69,0.00,350.62,0.00
+Morgan Hale,DIRECTOR,D-1079,Skyler Ward,2026-08,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,6559.12,287.70,6271.42,0.00,156.79,0.00
+Morgan Hale,DIRECTOR,D-1080,Skyler Ward,2026-07,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,5142.43,399.42,4743.01,0.00,118.58,0.00
+Morgan Hale,DIRECTOR,D-1081,Skyler Ward,2026-09,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,6027.72,361.42,5666.30,0.00,141.66,0.00
+Morgan Hale,DIRECTOR,D-1082,Skyler Ward,2026-07,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,9338.09,651.23,8686.86,0.00,217.17,0.00
+Morgan Hale,DIRECTOR,D-1083,Skyler Ward,2026-07,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,5279.94,89.88,5190.06,0.00,129.75,0.00
+Morgan Hale,DIRECTOR,D-1084,Skyler Ward,2026-09,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,7405.39,347.42,7057.97,0.00,176.45,0.00
+Morgan Hale,DIRECTOR,D-1085,Skyler Ward,2026-08,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,10443.53,696.96,9746.57,0.00,243.66,0.00
+Morgan Hale,DIRECTOR,D-1086,Skyler Ward,2026-07,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,14100.17,399.07,13701.10,0.00,342.53,0.00
+Morgan Hale,DIRECTOR,D-1087,Skyler Ward,2026-08,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,11624.75,757.98,10866.77,0.00,271.67,0.00
+Morgan Hale,DIRECTOR,D-1088,Skyler Ward,2026-09,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,9206.28,675.90,8530.38,0.00,213.26,0.00
+Morgan Hale,DIRECTOR,D-1089,Skyler Ward,2026-09,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,6307.63,76.62,6231.01,0.00,155.78,0.00
+Morgan Hale,DIRECTOR,D-1090,Skyler Ward,2026-09,consumables,roll-up (ACCOUNT_MGR basis) consumables: net of discounts,5187.05,182.64,5004.41,0.00,125.11,0.00
